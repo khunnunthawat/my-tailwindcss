@@ -1,5 +1,6 @@
 ###
-Tailwind Debug Screens
+Tailwind Debug Screens : 
+  https://www.npmjs.com/package/tailwindcss-debug-screens
   npm install tailwindcss-debug-screens --save-dev
 
   // tailwind.config.js 
