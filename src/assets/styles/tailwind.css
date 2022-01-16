@@ -4,8 +4,8 @@
 
 @layer base {
   @font-face {
-    font-family: 'Lato', sans-serif;
-    src: url(../../public/fonts/Lato/Lato-Regular.ttf) format('truetype');
+    font-family: 'Gowun Dodum', sans-serif;
+    src: url(/public/fonts/GowunDodum-Regular.ttf) format('truetype');
   }
   h1 {
     @apply text-4xl;

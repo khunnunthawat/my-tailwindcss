@@ -10,7 +10,11 @@ module.exports = {
   darkMode: false,
   theme: {
     debugScreens: { position: ['top', 'left'] },
-    extend: {},
+    extend: {
+      fontFamily: {
+        headline: ['Gowun Dodum'],
+      },
+    },
   },
   plugins: [
     require('tailwindcss-debug-screens'),

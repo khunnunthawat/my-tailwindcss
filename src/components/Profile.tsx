@@ -8,7 +8,7 @@ export const Profile = () => {
     <>
       <section id='header' className='mt-8'>
         <div className='text-center'>
-          <h1 className='mb-6'>
+          <h1 className='mb-6 font-headline'>
             The League Release training <br /> I'll get you in shape!
           </h1>
           <h2>Muscle building • Functional training • Nutritional advice</h2>
